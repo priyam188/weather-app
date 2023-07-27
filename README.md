@@ -15,4 +15,10 @@ and api data is fetched  using await fetch()
 In this way The weather app is created
 
 but there is still a problem the city name when passed as input then the site is not updated with the new city details
+It is Only working for input given in api link address , since i have given Kolkata, so by default it fetches data for Kolkata only
+and upon clicking on button value can be changes from fahrenheit to degree celsius and vice versa
+
+the link of website is 
+
+https://priyam188.github.io/weather-app
 
